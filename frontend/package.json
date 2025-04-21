@@ -1,0 +1,15 @@
+{
+  "name": "dependency-security-checker-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the Dependency Security Checker",
+  "scripts": {
+    "start": "npx serve -s .",
+    "dev": "npx serve -s . -l 3000"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT"
+} 
